@@ -1,0 +1,13 @@
+This is a demo file for Git commit.
+
+Steps to commit this file:
+1. Add the file to staging:
+   git add git_commit_demo.txt
+
+2. Commit the file with a message:
+   git commit -m "Add demo file for Git commit"
+
+3. Push the commit to a remote repository:
+   git push origin main
+
+Replace 'main' with the appropriate branch name if necessary.
